@@ -49,6 +49,6 @@ Excel, Power BI, DAX
   * Tailor engagement strategies and offers per segment rather than a one-size-fits-all approach.
 
 # Links
-[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)]([https://ishaa-23.github.io/](https://ishaa-abdul-rf8vkiq.gamma.site/))
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://ishaa-abdul-rf8vkiq.gamma.site/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
 
