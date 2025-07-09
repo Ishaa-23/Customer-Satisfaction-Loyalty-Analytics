@@ -9,6 +9,7 @@ This project analyzes customer satisfaction and loyalty trends for OmniRetail, a
 * Regional and location-specific insights
 
 # Dashboard
+Link to live dashboard- [Live Dashboard](https://lookerstudio.google.com/reporting/fcf6a74a-5bad-40ad-97ef-9a9c5442b3e1)
 ![Screenshot 2025-07-09 170754](https://github.com/user-attachments/assets/958b1d6a-5385-465a-ab2b-7b73006beb1b)
 ![Screenshot 2025-07-09 170823](https://github.com/user-attachments/assets/0a56db1b-96d0-4a6b-a208-72d178622e1f)
 
